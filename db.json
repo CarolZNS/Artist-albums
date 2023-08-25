@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "name": "Elsie Price",
+      "id": 3
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Mr. Juana King",
+      "id": 5
+    },
+    {
+      "name": "Mrs. Jean Leuschke",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "userId": 4,
+      "title": "Rustic Frozen Bacon",
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "title": "Licensed Frozen Gloves",
+      "id": 6
+    },
+    {
+      "userId": 7,
+      "title": "Bespoke Metal Sausages",
+      "id": 7
+    },
+    {
+      "userId": 7,
+      "title": "Awesome Rubber Table",
+      "id": 8
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=42894",
+      "id": 7
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=19578",
+      "id": 8
+    },
+    {
+      "albumId": 6,
+      "url": "https://loremflickr.com/150/150/abstract?lock=80287",
+      "id": 9
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=62127",
+      "id": 10
+    }
+  ]
+}
